@@ -1,3 +1,3 @@
 # gitprac
 
-Redmi file updated 
+Redmi file updated [and conflict added]
